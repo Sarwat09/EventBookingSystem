@@ -1,4 +1,4 @@
-<img width="1871" height="944" alt="Screenshot 2025-08-03 214545" src="https://github.com/user-attachments/assets/48042b4d-1771-4f9e-8bff-840f1da4b919" /> 🎟️ Event Booking System (React JS)
+
 
 A modern web-based Event Booking System developed using **React JS**.
 This system allows users to explore upcoming events, make bookings, and manage their registrations smoothly.
